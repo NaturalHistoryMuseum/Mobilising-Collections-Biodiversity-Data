@@ -24,7 +24,8 @@ Time:
 | --- | --- | --- | --- |
 | 10:30 | 20 min | **Welcome** | Isla Gladstone |
 | 10:50 | 10 min | **What is digitisation & Mobilisation?** | Helen Hardy |
-| 11:00 | 20 min | **Why are you digitising?** | Helen Hardy |
-| 11:10 | 20 min | **Exercise - Preparing a business case** | All |
-| 11:45 | 20 min | **How do you make sure your data are useful?** | Laurence Livermore |
-| 12:00 | 20 min | **Exercise - Hands on with Darwin Core** | Laurence Livermore |
+| 11:00 | 10 min | **Why are you digitising?** | Helen Hardy |
+| 11:10 | 35 min | **Exercise - Preparing a business case** | All |
+| 11:45 | 15 min | **BREAK** | N/A |
+| 12:00 | 20 min | **How do you make sure your data are useful?** | Laurence Livermore |
+| 12:20 | 40 min | **Exercise - Hands on with Darwin Core** | Laurence Livermore |
