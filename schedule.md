@@ -8,9 +8,12 @@ The workshop content will include, lectures, discussion, and hands-on sections. 
 //Credit TDWG Biodiversity 101 for content reuse
 
 
-###Logistics
-When: Monday 11 November 2019
-Where: [M Shed] (https://goo.gl/maps/ukNrKaZgCDbYvHyu6)
-Time
+### Logistics
 
-###Importance LInks
+When: Monday 11 November 2019
+
+Where: [M Shed](https://goo.gl/maps/ukNrKaZgCDbYvHyu6)
+
+Time: 
+
+### Important LInks
