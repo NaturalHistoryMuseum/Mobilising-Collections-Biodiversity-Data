@@ -20,6 +20,11 @@ Time:
 
 ## Mobilising Collections Data Workshop
 ### _Bristol, 2019-11-11_
-| Time | Length | Topic | Title | Presenter  w/ [ORCID](https://orcid.org/) |
-| --- | --- | --- | --- | --- |
-| 10:30 | 20 min | **Welcome** | Welcome to Mobilising Collections Data Workshop | Isla Gladstone |
+| Time | Length | Topic | Presenter  w/ [ORCID](https://orcid.org/) |
+| --- | --- | --- | --- |
+| 10:30 | 20 min | **Welcome** | Isla Gladstone |
+| 10:50 | 10 min | **What is digitisation & Mobilisation?** | Helen Hardy |
+| 11:00 | 20 min | **Why are you digitising?** | Helen Hardy |
+| 11:10 | 20 min | **Exercise - Preparing a business case** | All |
+| 11:45 | 20 min | **How do you make sure your data are useful?** | Laurence Livermore |
+| 12:00 | 20 min | **Exercise - Hands on with Darwin Core** | Laurence Livermore |
