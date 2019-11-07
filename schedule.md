@@ -16,4 +16,10 @@ Where: [M Shed](https://goo.gl/maps/ukNrKaZgCDbYvHyu6)
 
 Time: 
 
-### Important LInks
+### Important Links
+
+## Mobilising Collections Data Workshop
+### _Bristol, 2019-11-11_
+| Time | Length | Topic | Title | Presenter  w/ [ORCID](https://orcid.org/) |
+| --- | --- | --- | --- | --- |
+| 10:30 | 20 min | **Welcome** | Welcome to Mobilising Collections Data Workshop | Isla Gladstone |
