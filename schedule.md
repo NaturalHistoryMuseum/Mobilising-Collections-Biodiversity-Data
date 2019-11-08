@@ -22,10 +22,18 @@ Time:
 ### _Bristol, 2019-11-11_
 | Time | Length | Topic | Presenter  w/ [ORCID](https://orcid.org/) |
 | --- | --- | --- | --- |
-| 10:30 | 20 min | **Welcome** | Isla Gladstone |
-| 10:50 | 10 min | **What is digitisation & Mobilisation?** | Helen Hardy |
-| 11:00 | 10 min | **Why are you digitising?** | Helen Hardy |
-| 11:10 | 35 min | **Exercise - Preparing a business case** | All |
+| 10:30 | 20 min | **Welcome & introductions** | Isla Gladstone & All |
+| 10:50 | 10 min | **What is digitisation & data mobilisation?** | Helen Hardy |
+| 11:00 | 45 min | **Why mobilise your data? - combined presentation and exercises** | Helen Hardy & All |
 | 11:45 | 15 min | **BREAK** | N/A |
 | 12:00 | 20 min | **How do you make sure your data are useful?** | Laurence Livermore |
 | 12:20 | 40 min | **Exercise - Hands on with Darwin Core** | Laurence Livermore |
+| 13:00 | 30 min | **LUNCH** | N/A |
+| 13:30 | 10 min | **Digitisation - strategic planning and prioritisation** | Helen Hardy |
+| 13:40 | 20 min | **Digitisation - operational planning** | Laurence Livermore |
+| 14:00 | 30 min | **Parallel exercises: hands-on with hardware; digitisation costs** | Laurence Livermore & Helen Hardy |
+| 14:30 | 45 min | **Data ingestion and release** | Laurence Livermore |
+| 15:15 | 30 min | **BREAK and reflection** | N/A |
+| 15:45 | 30 min | **Making the case - business model template discussion/exercise** | Helen Hardy |
+| 16:15 | 45 min | **Next steps - your further questions; community strategies and close** | All |
+| 17:00 |  | **Pub?** |  |
