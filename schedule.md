@@ -27,7 +27,7 @@ Time: 10:30 - 17:00
 | 11:00 | 45 min | **Why mobilise your data? - combined presentation and exercises** | [Helen Hardy](https://orcid.org/0000-0002-9206-8357) & All |
 | 11:45 | 15 min | **BREAK** | N/A |
 | 12:00 | 20 min | **[How do you make sure your data are useful?](https://doi.org/10.6084/m9.figshare.10280591)** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
-| 12:20 | 40 min | **Exercise - Hands on with Darwin Core** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
+| 12:20 | 40 min | **Exercise - Hands on with Darwin Core & trying new tools and services** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
 | 13:00 | 30 min | **LUNCH** | N/A |
 | 13:30 | 10 min | **Digitisation - strategic planning and prioritisation** | [Helen Hardy](https://orcid.org/0000-0002-9206-8357) |
 | 13:40 | 20 min | **[Digitisation - operational planning](https://doi.org/10.6084/m9.figshare.10281923.v1)** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
