@@ -30,7 +30,7 @@ Time:
 | 12:20 | 40 min | **Exercise - Hands on with Darwin Core** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
 | 13:00 | 30 min | **LUNCH** | N/A |
 | 13:30 | 10 min | **Digitisation - strategic planning and prioritisation** | [Helen Hardy](https://orcid.org/0000-0002-9206-8357) |
-| 13:40 | 20 min | **Digitisation - operational planning** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
+| 13:40 | 20 min | **[Digitisation - operational planning](https://doi.org/10.6084/m9.figshare.10281923.v1)** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
 | 14:00 | 30 min | **Parallel exercises: hands-on with hardware; digitisation costs** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) & Helen Hardy |
 | 14:30 | 45 min | **Digitisation Practicalities** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
 | 15:15 | 30 min | **BREAK and reflection** | N/A |
