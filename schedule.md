@@ -14,7 +14,7 @@ When: Monday 11 November 2019
 
 Where: [M Shed](https://goo.gl/maps/ukNrKaZgCDbYvHyu6)
 
-Time: 
+Time: 10:30 - 17:00 
 
 ### Important Links
 
