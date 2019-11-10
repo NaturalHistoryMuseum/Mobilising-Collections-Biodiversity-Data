@@ -12,7 +12,7 @@ We were heavily inspired by [TDWG's Biodiversity Informatics 101 Workshop at Bio
 
 When: Monday 11 November 2019
 
-Where: [M Shed](https://goo.gl/maps/ukNrKaZgCDbYvHyu6)
+Where: [M Shed](https://goo.gl/maps/ukNrKaZgCDbYvHyu6), Bristol, UK
 
 Time: 10:30 - 17:00 
 
