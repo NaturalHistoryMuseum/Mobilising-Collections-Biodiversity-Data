@@ -32,7 +32,7 @@ Time: 10:30 - 17:00
 | 13:30 | 10 min | **Digitisation - strategic planning and prioritisation** | [Helen Hardy](https://orcid.org/0000-0002-9206-8357) |
 | 13:40 | 20 min | **[Digitisation - operational planning](https://doi.org/10.6084/m9.figshare.10281923.v1)** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
 | 14:00 | 30 min | **Parallel exercises: hands-on with hardware; digitisation costs** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) & Helen Hardy |
-| 14:30 | 45 min | **Digitisation Practicalities** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
+| 14:30 | 45 min | **[Digitisation Practicalities](https://doi.org/10.6084/m9.figshare.10282010)** | [Laurence Livermore](https://orcid.org/0000-0002-7341-1842) |
 | 15:15 | 30 min | **BREAK and reflection** | N/A |
 | 15:45 | 30 min | **Making the case - business model template discussion/exercise** | [Helen Hardy](https://orcid.org/0000-0002-9206-8357) |
 | 16:15 | 45 min | **Next steps - your further questions; community strategies and close** | All |
