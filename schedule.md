@@ -21,6 +21,10 @@ Time: 10:30 - 17:00
 
 [Participant questions](https://github.com/NaturalHistoryMuseum/Mobilising-Collections-Biodiversity-Data/blob/master/questions.md)
 
+http://bit.ly/2NDiWVw - Link to the schedule
+
+[Communal Notes/Questions](https://docs.google.com/document/d/119ccNBHSCS2HGLXIrCCXIJTzjOjuO2lQO8mMMCZxXEI/edit)
+
 ## Mobilising Collections Data Workshop
 ### _Bristol, 2019-11-11_
 | Time | Length | Topic | Presenter  w/ [ORCID](https://orcid.org/) |
