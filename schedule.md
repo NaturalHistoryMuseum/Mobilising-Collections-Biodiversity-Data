@@ -19,11 +19,9 @@ Time: 10:30 - 17:00
 ### Important Links
 [Our B slides](https://docs.google.com/presentation/d/1TScvIp3k8td89Zpp8FcdUhYLx63tzKFnwdJir_q9dgo/edit#slide=id.p20)
 
-[Participant questions](https://github.com/NaturalHistoryMuseum/Mobilising-Collections-Biodiversity-Data/blob/master/questions.md)
+[Participant pre-workshop questions](https://github.com/NaturalHistoryMuseum/Mobilising-Collections-Biodiversity-Data/blob/master/questions.md)
 
-http://bit.ly/2NDiWVw - Link to the schedule
-
-[Communal Notes/Questions](https://docs.google.com/document/d/119ccNBHSCS2HGLXIrCCXIJTzjOjuO2lQO8mMMCZxXEI/edit)
+[Communal Workshop Notes/Questions](https://docs.google.com/document/d/119ccNBHSCS2HGLXIrCCXIJTzjOjuO2lQO8mMMCZxXEI/edit)
 
 ## Mobilising Collections Data Workshop
 ### _Bristol, 2019-11-11_
