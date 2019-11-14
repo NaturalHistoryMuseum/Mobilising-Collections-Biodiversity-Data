@@ -5,10 +5,10 @@
 - A: We would normally commission commercial images separately to our digitisation and scientific imaging, although this is really rare! Commercial images are taken by a specific team and usually for a specific purpose (e.g. general books, press releases, promotional material) - Laurence
 
 - Q: Can you share NHM’s workflows?
-- A: 
+- A: We've published a few of our workflows but our [microscope slide paper](https://doi.org/10.3897/BDJ.7.e32342) is a good generalised one. There is a recent [workflow for small herbaria by Kari Harris and Travis Marsico](https://doi.org/10.3732/apps.1600125).
 
 - Q: How can Excel data can be shared with GBIF?
-- A:
+- A: I've contacted NBN and GBIF to discuss the best way of sharing collections data. Watch this space!
 
 - Q: How do you deal with vague geographical data and how do you standardise it?
 - A: 
