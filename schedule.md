@@ -19,9 +19,7 @@ We were heavily inspired by [TDWG's Biodiversity Informatics 101 Workshop at Bio
 ### Important Links
 [Our B slides](https://docs.google.com/presentation/d/1TScvIp3k8td89Zpp8FcdUhYLx63tzKFnwdJir_q9dgo/edit#slide=id.p20)
 
-[Participant pre-workshop questions](https://github.com/NaturalHistoryMuseum/Mobilising-Collections-Biodiversity-Data/blob/master/questions.md)
-
-[Communal Workshop Notes/Questions](https://docs.google.com/document/d/119ccNBHSCS2HGLXIrCCXIJTzjOjuO2lQO8mMMCZxXEI/edit)
+[Participant questions](https://github.com/NaturalHistoryMuseum/Mobilising-Collections-Biodiversity-Data/blob/master/questions.md)
 
 ## Mobilising Collections Data Workshop
 ### _Bristol, 2019-11-11_
