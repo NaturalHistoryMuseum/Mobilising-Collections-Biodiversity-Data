@@ -1,5 +1,37 @@
 # Questions and discussion topics from workshop participants
 
+## Closing and Post-workshop Questions
+- Q: Commercialisation of images/licensing - any special considerations needed for digitising collections routinely when you know that some of your images ARE going to be used by your organisation commercially?
+- A: We would normally commission commercial images separately to our digitisation and scientific imaging, although this is really rare! Commercial images are taken by a specific team and usually for a specific purpose (e.g. general books, press releases, promotional material) - Laurence
+
+- Q: Can you share NHM’s workflows?
+- A: 
+
+- Q: How can Excel data can be shared with GBIF?
+- A:
+
+- Q: How do you deal with vague geographical data and how do you standardise it?
+- A: 
+
+- Q: How do you export data from EMu to GBIF (via NBN)?
+- A:
+
+- Q: What do we do with metadata for complex collection objects?
+- A:
+
+- Q: How do you handle illegible / uncertain data?
+- A:
+
+- Q: What are the best ways of linking data and how can we reuse existing data?
+- A:
+
+- Q: Data divergence how do you keep digitised collections up to date? (e.g. new when there are new physical label-based determinations)
+- A:
+
+- Q: How do I link research to specimens?
+- A:
+
+## Preworkshop Questions
 1. {How do} revisions to taxonomy affect on data and making {information} available on GBIF?
 2. We have limited ability to photograph and barcode label our collections - is there still scope for us to transcribe data labels and what would be the best way to do this?
 3. Do you have any advice on how we can speed up this process in the future?
