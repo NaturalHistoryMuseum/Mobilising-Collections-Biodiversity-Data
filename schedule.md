@@ -44,3 +44,14 @@ http://bit.ly/2NDiWVw - Link to the schedule
 | 15:45 | 30 min | **[Making the case - business model template discussion/exercise](https://docs.google.com/presentation/d/1kKIVxFKMs-MBpIDsEUngbHqRKeM_ojqHik03T5-55kw/edit?usp=sharing)** | [Helen Hardy](https://orcid.org/0000-0002-9206-8357) |
 | 16:15 | 45 min | **Next steps - your further questions; community strategies and close** | All |
 | 17:00 |  | **Pub?** |  |
+
+## Participating Collections
+- Cambridge University Herbarium
+- Historic England
+- Hunterian Museum and Art Gallery
+- Leeds Museums & Galleries
+- Museum of Zoology - University of Cambridge
+- National Museum Wales
+- National Museum of Ireland
+- The Manchester Museum
+- World Museum, Liverpool 
