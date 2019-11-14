@@ -5,4 +5,4 @@ NatSCA are working with the Natural History Museum London and Bristol Culture to
 
 The workshop content will include, lectures, discussion, and hands-on sections. Expect to help each other share insights into the needs of our broader network and the expertise and opportunities available.
 
-See the workshop **[schedule](https://github.com/NaturalHistoryMuseum/Mobilising-Collections-Biodiversity-Data/blob/master/schedule.md)** and **[particpant questions](https://github.com/NaturalHistoryMuseum/Mobilising-Collections-Biodiversity-Data/blob/master/questions.md)** 
+See the workshop **[schedule](https://github.com/NaturalHistoryMuseum/Mobilising-Collections-Biodiversity-Data/blob/master/schedule.md)** and **[participant questions](https://github.com/NaturalHistoryMuseum/Mobilising-Collections-Biodiversity-Data/blob/master/questions.md)** 
