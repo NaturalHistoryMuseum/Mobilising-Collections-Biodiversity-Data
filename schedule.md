@@ -10,11 +10,11 @@ We were heavily inspired by [TDWG's Biodiversity Informatics 101 Workshop at Bio
 
 ### Logistics
 
-When: Monday 11 November 2019
+**When**: Monday 11 November 2019
 
-Where: [M Shed](https://goo.gl/maps/ukNrKaZgCDbYvHyu6), Bristol, UK
+**Where**: [M Shed](https://goo.gl/maps/ukNrKaZgCDbYvHyu6), Bristol, UK
 
-Time: 10:30 - 17:00 
+**Time**: 10:30 - 17:00 
 
 ### Important Links
 [Our B slides](https://docs.google.com/presentation/d/1TScvIp3k8td89Zpp8FcdUhYLx63tzKFnwdJir_q9dgo/edit#slide=id.p20)
