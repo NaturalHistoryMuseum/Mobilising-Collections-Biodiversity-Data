@@ -5,7 +5,7 @@ NatSCA are working with the Natural History Museum London and Bristol Culture to
 
 The workshop content will include, lectures, discussion, and hands-on sections. Expect to help each other share insights into the needs of our broader network and the expertise and opportunities available.  
 
-We were heavily inspired by [TDWG's Biodiversity Informatics 101 Workshop at Biodiversity Next](https://github.com/tdwg/curriculum/blob/master/biodiversity-informatics-101/bi101_schedule_2019.md) - thanks for sharing!
+We were heavily inspired by [TDWG's Biodiversity Informatics 101 Workshop at Biodiversity Next](https://github.com/tdwg/curriculum/blob/master/biodiversity-informatics-101/bi101_schedule_2019.md) and has roots in a [2018 session delivered by iDigBio with NHM and Bristol Museums](https://www.idigbio.org/wiki/index.php/UK-SWANSPracticalDigitisation).
 
 
 ### Logistics
