@@ -3,6 +3,8 @@ More and more biodiversity data are coming online everyday and give all of us ne
 
 NatSCA are working with the Natural History Museum London and Bristol Culture to develop an introductory workshop to help the NatSCA community mobilise and share their collections data.
 
-The workshop content will include, lectures, discussion, and hands-on sections. Expect to help each other share insights into the needs of our broader network and the expertise and opportunities available.
+The workshop content will include, lectures, discussion, and hands-on sections. Expect to help each other share insights into the needs of our broader network and the expertise and opportunities available.  
+
+We were heavily inspired by [TDWG's Biodiversity Informatics 101 Workshop at Biodiversity Next](https://github.com/tdwg/curriculum/blob/master/biodiversity-informatics-101/bi101_schedule_2019.md) and has roots in a [2018 session delivered by iDigBio with NHM and Bristol Museums](https://www.idigbio.org/wiki/index.php/UK-SWANSPracticalDigitisation).
 
 See the workshop **[schedule](https://github.com/NaturalHistoryMuseum/Mobilising-Collections-Biodiversity-Data/blob/master/schedule.md)** and **[participant questions](https://github.com/NaturalHistoryMuseum/Mobilising-Collections-Biodiversity-Data/blob/master/questions.md)** 
